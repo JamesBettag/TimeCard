@@ -1,6 +1,6 @@
 /*
  * Author: James Bettag
- * Completed: 7 June 2018
+ * Completed: 7 June 2019
  * Filename: TimeCard.java
  */
 
